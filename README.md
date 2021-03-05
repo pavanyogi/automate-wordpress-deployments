@@ -2,6 +2,10 @@
 
 https://dzone.com/articles/how-to-automate-wordpress-deployments
 
+# Sage is Awesome - 01 - Install and Overview
+https://www.youtube.com/watch?v=WwIt2C2SnUI
+
+# CI/CD steps
 1. Execute:
 # navigate to theme directory
 cd sage

@@ -25,7 +25,7 @@ yarn
 yarn build:production
 .......
 
-before this step-> create 1 click wordpress install in the choosen droplet, add ssh key, do ssh login, and notedown its ip address, type its ip address in the browser and verify that wordpress is working, do login, check all themes and plugins and switch themes , see website frontend
+before this step-> create 1 click wordpress install in the choosen droplet, add ssh key, do ssh login, and notedown its ip address, type its ip address in the browser and verify that wordpress is working, do login, check all themes and plugins and switch themes , see website frontend, install wp-cli.phar (https://wp-cli.org/)
 3.Upload files to ubuntu-s-4vcpu-8gb-blr1-01
 
 ignore paths: 
